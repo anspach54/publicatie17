@@ -2322,12 +2322,15 @@ body {
 .cid-qBwQv6JUUR {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #000000;
+  background-color: #ffffff;
+}
+.cid-qBwQv6JUUR H2 {
+  color: #000000;
 }
 .cid-qBwG8z9trJ {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-qBwG8z9trJ .content-slider {
   display: flex;
